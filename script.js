@@ -19,9 +19,13 @@ const colors2 = ["Blue", "Purple", "Green", "Pink"];
 // 5) Use indexOf() to determine the index number of "Lego Batman"
 const shows = ["Survivor", "Becoming Anna", "Hannah Montana", "Lego Batman"];
 
+// Now use the returned index to change that element's name to "Sesame Street"
+
+
 // 6) Use from() to create an array from the word "Salad"
 
 
 // 7) Use includes() to determine of this array includes the letter "Z"
 const animal = ["z", "e", "b", "r", "a"];
+
 
